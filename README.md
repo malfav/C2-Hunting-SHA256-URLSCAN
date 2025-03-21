@@ -1,8 +1,8 @@
-#C2-Hunting-SHA256-URLSCAN
+# C2-Hunting-SHA256-URLSCAN
 
 This table contains a list of SHA-256 hashes associated with various C2 malware families. You can use urlscan.io to hunt for the latest C2 servers.
 
-# TOP C2 SHA-256 Hashes URLSCAN Query
+# C2 SHA-256 Hashes URLSCAN Query
 
 | #   | Name                   | SHA-256 Hash                                                                  |
 |-----|------------------------|-------------------------------------------------------------------------------|
